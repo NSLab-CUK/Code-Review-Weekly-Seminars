@@ -1,1 +1,1 @@
-# Code-Review-Weekly-Seminars
+# Code Review Weekly Seminars
